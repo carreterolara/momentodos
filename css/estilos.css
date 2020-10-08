@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+</style>
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+</style>
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #FAF9F9;
+
+}
+
+main{
+	width: 100%;
+	height: 840px;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+header{
+	width: 100%;
+	height: 202px;
+	background-color: #483D54;
+}
+
+section{
+	width: 100%;
+	height: 565px;
+	background-color: #FAF9F9;
+	margin-top: 0;
+}
+
+footer{
+	width: 100%;
+	height: 73px;
+	background-color: #483D54;
+}
+
+.logo{
+	margin-left: 27.5%;
+	padding-top: 0.2%;
+
+	
+}
+
+#menu{
+	margin: 0;
+}
+
+#menu li{
+	display: inline;
+	font-family: 'Amaranth', sans-serif;
+	margin-right: 1%;
+}
+
+#menu li a{
+	font-size: 18px;
+	font-family: 'Amaranth', sans-serif;
+	text-decoration: none;
+	float: left;
+	padding-left: 21.2%;
+	color: #FFFFFF;
+}
+
+#menu li a:hover{
+	color: #BEAED1;
+}
+
+#seccion{
+	overflow: auto;
+}
+
+#seccion2{
+	color: #FFFFFF;
+}
+
+#seccion3{
+	width: 23%;
+	height: 535px;
+	background-image: url('../img/meridamo.png');
+	background-size: cover;
+	float: left;
+	padding: 1%;
+}
+
+#seccion4{
+	width: 23%;
+	height: 535px;
+	background-image: url('../img/jazminpe.png');
+	background-size: cover;
+	float: left;
+	padding: 1%;
+}
+
+#seccion5{
+	width: 23%;
+	height: 535px;
+	background-image: url('../img/rapunzelte.png');
+	background-size: cover;
+	float: left;
+	padding: 1%;
+}
+
+#seccion6{
+	width: 23%;
+	height: 535px;
+	background-image: url('../img/bellamani.png');
+	background-size: cover;
+	float: right;
+	padding: 1%;
+}
+
+
+#seccion7{
+	background-image: url('../img/fonditox.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+#uno{
+	width: 30%;
+	height: 33px;
+	float: left;
+	margin-top: 1%;
+	padding-left: 6%;
+	color: #483D54;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 28px;  
+}
+
+#dos{
+	width: 30%;
+	height: 35px;
+	float: left;
+	margin-top: 5%;
+	padding-left: 8%;
+	padding-right: 38%;
+	
+}
+
+#tres{
+	width: 35%;
+	height: 35px;
+	float: right;
+	padding-right: 12%;
+	color: #000000;
+}
+
+#cuatro{
+	width: 40%;
+	height: 33px;
+	float: left;
+	padding-left: 15%;
+	padding-top: 1%;
+	color: #483D54;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 22px;  
+}
+
+#cinco{
+	width: 100%;
+	height: 34px;
+	float: left;
+	padding-top: 3%;
+	padding-left: 15%;
+	padding-right: 20%;
+	color: #000000;
+}
+
+#seis{
+	width: 100%;
+	height: 34px;
+	float: left;
+	padding-top: 9%;
+	padding-left: 35%;
+	color: #705E84;
+
+}
+
+p{
+font-family: 'Pathway Gothic One', sans-serif;
+font-size: 16px;
+}
+
+#izquierda{
+	width: 33%;
+	height: 71px;
+	float: left;
+	font-size: 22px;
+	color: #FFFFFF;
+	margin-left: 9%;
+	font-family: 'Amaranth', sans-serif;
+	margin-top: 1.8%;
+
+}
+
+#izquierda a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#izquierda a:hover{
+	color: #BEAED1;
+}
+
+#derecha{
+	width: 33%;
+	height: 71px;
+	float: right;
+
+}
+
+#menu2{
+	margin: 0;
+	padding-left: 45%;
+}
+
+#menu2 li{
+	display: inline;
+	
+
+}
+
+#menu2 li a{
+	text-decoration: none;
+}
+
+.redes{
+	padding-right: 8%;
+	
+}
+
+#gal{
+	width: 100vw;
+	height: 100px;
+	margin-left: 15.6%;
+	margin-right: 3%;
+	padding-top: 22%;
+}
+
+#formulario{
+	width: 40%;
+	height: 80%;
+	float: left;
+	padding-top: 3.5%;
+	padding-right: 1%;
+	margin-left: 63%;
+}
+
+#boxformu{
+	color: #BEAED1;
+	padding-top: 1%;
+	padding-bottom: 3%;
+	padding-left: 3%;
+	padding-right: 3%;
+	width: 60%;
+	height: 420px;
+	border-radius: 4px;
+	background-color: #BEAED1;
+}
+
+h2{
+	color: #483D54;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 28px;  
+}
+
+h3{
+	color: #483D54;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 15px;  
+}
+
+#nombre{
+	color: #483D54;
+	width: 94%;
+	height: 30px;
+	border-radius: 2px;
+	margin-left: 2%;
+	padding-left: 1%;
+	border: none;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 18px;
+}
+
+#email{
+	color: #483D54;
+	width: 94%;
+	height: 30px;
+	border-radius: 2px;
+	margin-left: 2%;
+	padding-left: 1%;
+	border: none;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 18px;
+}
+#telefono{
+	color: #483D54;
+	width: 94%;
+	height: 30px;
+	border-radius: 2px;
+	margin-left: 2%;
+	padding-left: 1%;
+	border: none;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 18px;
+}
+
+#mensaje{
+	color: #483D54;
+	width: 94%;
+	height: 60px;
+	border-radius: 2px;
+	padding-left: 1%;
+	border: none;
+}
+
+
+#boton{
+	color: #483D54;	
+	background-color:rgba(255,255,255,0.4);
+	border-radius: 4px;
+	padding: 3%;
+	margin-left: 43%;
+	margin-right: 6%;
+	border: none;
+
+}
+
+
+
+h6{
+	background-color: #483D54;
+	border-radius: 5px;
+	color: #FAF9F9;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 17px;
+	text-align: center;
+	padding: 1%;
+	margin-top: 75%;
+	
+
+}
